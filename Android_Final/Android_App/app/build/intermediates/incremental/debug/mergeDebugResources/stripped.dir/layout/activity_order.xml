@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".OrderActivity">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="wrap_content"
+        android:layout_height="286dp"
+        android:layout_marginTop="43dp"
+        app:layout_constraintBottom_toTopOf="@+id/wheel_view"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <com.example.wheelview.WheelView
+        android:id="@+id/wheel_view"
+        android:layout_width="309dp"
+        android:layout_height="317dp"
+        android:layout_margin="16dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintDimensionRatio="1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.898"
+        app:userInputMode="true"
+        app:wheelAnchorAngle="270"
+        app:wheelAnimationDuration="800"
+        app:wheelArcBackgroundColor="#F5F5F5"
+        app:wheelCenterIcon="@drawable/ic_baseline_add_24"
+        app:wheelCenterIconPadding="16dp"
+        app:wheelCenterIconTint="@color/white"
+        app:wheelDividerStrokeWidth="16dp"
+        app:wheelMode="ANIMATE_TO_ANCHOR"
+        app:wheelSelectedArcBackgroundColor="#B73E3E"
+        app:wheelSelectedTextColor="@color/white"
+        app:wheelStartAngle="315"
+        app:wheelTextColor="@color/black"
+        app:wheelTextSize="20dp" />
+
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="@string/type"
+        android:textAlignment="center"
+        android:textColor="@android:color/black"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:visibility="gone"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/wheel_view" />
+
+    <SlidingDrawer
+        android:id="@+id/etcLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp"
+        android:content="@+id/content"
+        android:handle="@+id/handle"
+        android:topOffset="100dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="0dp">
+
+        <ImageButton
+            android:id="@+id/handle"
+            android:layout_width="60dp"
+            android:layout_height="45dp"
+            android:background="@drawable/back"
+            app:srcCompat="@drawable/menulist_img_24px"
+            tools:ignore="SpeakableTextPresentCheck" />
+
+        <LinearLayout
+            android:id="@+id/content"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/lightgreen"
+            android:orientation="vertical"
+            android:gravity="top"
+            android:clickable="true"
+            android:focusable="true">
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/button6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="10dp"
+                android:background="@drawable/btn_write"
+                android:text="My Health"
+                android:textSize="20sp"
+                android:fontFamily="@font/gothica1_bold"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"/>
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/button7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:background="@drawable/btn_write"
+                android:text="공지 보기"
+                android:textSize="20sp"
+                android:fontFamily="@font/gothica1_bold"
+                app:layout_constraintTop_toBottomOf="@+id/button6"
+                app:layout_constraintBottom_toTopOf="@+id/button8"/>
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/button8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:background="@drawable/btn_write"
+                android:text="리뷰 보기"
+                android:textSize="20sp"
+                android:fontFamily="@font/gothica1_bold"
+                app:layout_constraintTop_toBottomOf="@+id/button7"
+                app:layout_constraintBottom_toTopOf="@+id/button15"/>
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/button15"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:background="@drawable/btn_write"
+                android:text="리뷰 쓰기"
+                android:textSize="20sp"
+                android:fontFamily="@font/gothica1_bold"
+                app:layout_constraintTop_toBottomOf="@+id/button8"
+                app:layout_constraintBottom_toTopOf="@+id/button16"/>
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/button16"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:background="@drawable/btn_write"
+                android:text="내 주문내역"
+                android:textSize="20sp"
+                android:fontFamily="@font/gothica1_bold"
+                app:layout_constraintTop_toBottomOf="@+id/button15"
+                app:layout_constraintBottom_toTopOf="@+id/button17" />
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/button17"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:background="@drawable/btn_write"
+                android:fontFamily="@font/gothica1_bold"
+                android:text="주문 현황"
+                android:textSize="20sp"
+                app:layout_constraintBottom_toTopOf="@+id/buttonlogout"
+                app:layout_constraintTop_toBottomOf="@+id/button16" />
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/button18"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:background="@drawable/btn_write"
+                android:text="선물하기"
+                android:textSize="20sp"
+                android:fontFamily="@font/gothica1_bold"
+                app:layout_constraintTop_toBottomOf="@+id/button17"
+                app:layout_constraintBottom_toTopOf="@+id/buttonlogout"/>
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/buttonlogout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:background="@drawable/btn_yes"
+                android:text="로그아웃"
+                android:textSize="20sp"
+                android:fontFamily="@font/gothica1_bold"
+                android:textColor="@color/white"
+                app:layout_constraintTop_toBottomOf="@+id/button18"
+                app:layout_constraintEnd_toEndOf="parent" />
+        </LinearLayout>
+
+    </SlidingDrawer>
+
+    <SlidingDrawer
+        android:id="@+id/cartLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:layout_marginBottom="16dp"
+        android:content="@+id/content2"
+        android:handle="@+id/handle2"
+        android:orientation="vertical"
+        android:rotation="180"
+        android:topOffset="100dp"
+        android:elevation="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="0dp">
+
+        <ImageButton
+            android:id="@+id/handle2"
+            android:layout_width="60dp"
+            android:layout_height="45dp"
+            android:background="@drawable/back"
+            android:rotation="180"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/cart_img_32px"
+            tools:ignore="SpeakableTextPresentCheck" />
+
+        <LinearLayout
+            android:id="@+id/content2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/cream"
+            android:gravity="top"
+            android:rotation="180"
+            android:orientation="vertical"
+            android:clickable="true"
+            android:focusable="true">
+
+            <TextView
+                android:id="@+id/carttitle"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/gothica1_regular"
+                android:text="장바구니"
+                android:textSize="20dp"
+                android:layout_marginTop="30dp"
+                android:layout_marginLeft="30dp"
+                app:layout_constraintTop_toTopOf="parent"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:background="@color/black"
+                android:layout_margin="12dp"/>
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/cartlistView"
+                android:layout_width="match_parent"
+                android:layout_height="330dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/carttitle" />
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/locationCheckButton"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:background="@drawable/btn_write"
+                android:text="주문 가능한 위치 확인하기"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintBottom_toTopOf="@id/button4"/>
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/button4"
+                android:background="@drawable/btn_write"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:text="결제하기"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"/>
+
+        </LinearLayout>
+    </SlidingDrawer>
+</androidx.constraintlayout.widget.ConstraintLayout>

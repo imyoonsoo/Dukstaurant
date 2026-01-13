@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <!-- 주문 완료! 메시지 -->
+    <TextView
+        android:id="@+id/orderCompleteMessage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:text="주문 완료!"
+        android:textColor="@color/black"
+        android:textSize="30sp"
+        android:fontFamily="@font/gothica1_medium" />
+
+    <!-- 대기자 수 -->
+    <TextView
+        android:id="@+id/checkWaitingNumber"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="50dp"
+        android:text="대기자 수 : 15명"
+        android:textColor="@color/black50"
+        android:textSize="23sp"
+        android:fontFamily="@font/gothica1_regular"/>
+
+    <!-- 이미지 뷰 -->
+    <ImageView
+        android:id="@+id/completeIcon"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="10dp" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/homeButton"
+        android:layout_width="160dp"
+        android:layout_height="53dp"
+        android:layout_marginTop="160dp"
+        android:text="홈으로"
+        android:textSize="19sp"
+        android:textColor="@color/white"
+        android:background="@drawable/btn_write_done"
+        android:fontFamily="@font/gothica1_medium"/>
+</LinearLayout>

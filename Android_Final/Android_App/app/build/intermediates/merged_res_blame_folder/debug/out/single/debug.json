@@ -1,0 +1,394 @@
+[
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\layout_activity_order.xml.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\activity_order.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\drawable_cooking.png.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\drawable\\cooking.png"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\layout_recycler_view.xml.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\recycler_view.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\drawable-v24_btn_no.xml.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\drawable-v24\\btn_no.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\layout_activity_etc.xml.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\activity_etc.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\drawable-v24_tray_img_32px.png.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\drawable-v24\\tray_img_32px.png"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\layout_custom_dialog.xml.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\drawable_meal.png.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\drawable\\meal.png"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\drawable-v24_back_icon_32px.png.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\drawable-v24\\back_icon_32px.png"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\layout_activity_my_health.xml.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\activity_my_health.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\layout_activity_step.xml.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\activity_step.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\layout_activity_res_review.xml.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\activity_res_review.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\drawable_default_user_img.png.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\drawable\\default_user_img.png"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\layout-land_activity_order.xml.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout-land\\activity_order.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\font_gothica1_thin.ttf.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\font\\gothica1_thin.ttf"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\layout_activity_review_write.xml.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\activity_review_write.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\drawable-v24_malatang_img_radius.png.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\drawable-v24\\malatang_img_radius.png"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\layout_activity_gift.xml.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\activity_gift.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\drawable_back.xml.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\drawable\\back.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\drawable-v24_todaymenu_img_radius.png.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\drawable-v24\\todaymenu_img_radius.png"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\layout_logout_design.xml.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\logout_design.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\font_gothica1_extrabold.ttf.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\font\\gothica1_extrabold.ttf"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\layout_first_dialog.xml.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\first_dialog.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\layout_activity_order_detail.xml.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\activity_order_detail.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\font_gothica1_black.ttf.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\font\\gothica1_black.ttf"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\layout_activity_restaurant_main.xml.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\activity_restaurant_main.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\layout_rv_gift.xml.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\rv_gift.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\layout_activity_review_select.xml.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\activity_review_select.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\layout_activity_main.xml.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\layout_activity_payment2.xml.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\activity_payment2.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\layout_recommend_item.xml.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\recommend_item.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\layout_each_item.xml.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\each_item.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\layout_activity_notification_write.xml.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\activity_notification_write.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\drawable_profile.png.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\drawable\\profile.png"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\drawable-v24_button_selector.xml.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\drawable-v24\\button_selector.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\drawable_loading_icon2_24px.png.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\drawable\\loading_icon2_24px.png"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\font_gothica1_light.ttf.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\font\\gothica1_light.ttf"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\layout_recycler_view_r_order.xml.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\recycler_view_r_order.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\layout_rv_send_gift.xml.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\rv_send_gift.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\layout_activity_location_loading.xml.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\activity_location_loading.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\font_gothica1_regular.ttf.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\font\\gothica1_regular.ttf"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\font_gothica1_bold.ttf.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\font\\gothica1_bold.ttf"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\drawable_ic_baseline_add_24.xml.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\drawable\\ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\layout_activity_notification.xml.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\activity_notification.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\layout_activity_review.xml.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\activity_review.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\drawable_btn_write.xml.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\drawable\\btn_write.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\layout_activity_waiting.xml.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\activity_waiting.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\layout_activity_my_info.xml.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\activity_my_info.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\font_gothica1_semibold.ttf.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\font\\gothica1_semibold.ttf"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\drawable_btn_write_done.xml.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\drawable\\btn_write_done.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\layout_check_giftusing_design.xml.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\check_giftusing_design.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\drawable_cart_img_32px.png.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\drawable\\cart_img_32px.png"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\drawable_gift.png.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\drawable\\gift.png"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\layout_activity_join.xml.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\activity_join.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\font_gothica1_medium.ttf.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\font\\gothica1_medium.ttf"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\layout_rv_reviewmanagement.xml.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\rv_reviewmanagement.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\drawable-v24_giphy.gif.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\drawable-v24\\giphy.gif"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\layout_rv_received_gift.xml.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\rv_received_gift.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\drawable-v24_don_img_radius.png.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\drawable-v24\\don_img_radius.png"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\drawable_reviewend.xml.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\drawable\\reviewend.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\mipmap-mdpi_logo.png.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\mipmap-mdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\drawable_cart_icon_32px.png.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\drawable\\cart_icon_32px.png"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\drawable-v24_pasta_img_radius.png.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\drawable-v24\\pasta_img_radius.png"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\layout_activity_payment.xml.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\activity_payment.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\drawable_outline_edit_24.xml.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\drawable\\outline_edit_24.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\layout_check_giftpay_design.xml.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\check_giftpay_design.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\layout_rv_orderedlist.xml.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\rv_orderedlist.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\drawable-v24_btn_yes.xml.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\drawable-v24\\btn_yes.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\drawable_editbox.png.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\drawable\\editbox.png"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\layout_activity_my_location.xml.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\activity_my_location.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\drawable-v24_tteokbokki_img_radius.png.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\drawable-v24\\tteokbokki_img_radius.png"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\drawable_border_curved.xml.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\drawable\\border_curved.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\drawable_pasta_img.png.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\drawable\\pasta_img.png"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\font_gothica1_extralight.ttf.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\font\\gothica1_extralight.ttf"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\layout_activity_r_order_detail.xml.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\activity_r_order_detail.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\drawable_malatang_img.png.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\drawable\\malatang_img.png"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\drawable_menulist_img_24px.png.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\drawable\\menulist_img_24px.png"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\layout_recycler_view_review.xml.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\recycler_view_review.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\layout_cart_item.xml.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\cart_item.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\xml_backup_rules.xml.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "com.example.projecttest.app-merged_res-37:/layout_activity_order.xml.flat",
+        "source": "com.example.projecttest.app-main-39:/layout/activity_order.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\drawable_btn_selector.xml.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\drawable\\btn_selector.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-merged_res-37:\\drawable-v24_order_complete_icon.png.flat",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\drawable-v24\\order_complete_icon.png"
+    }
+]

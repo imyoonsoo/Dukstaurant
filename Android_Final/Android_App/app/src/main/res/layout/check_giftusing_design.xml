@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="350dp"
+    android:layout_height="210dp"
+    android:layout_centerHorizontal="true"
+    android:layout_alignParentTop="true"
+    android:layout_marginTop="21dp"
+    android:orientation="vertical">
+
+    <!-- 버튼 레이아웃 -->
+    <TextView
+        android:id="@+id/check_GiftUsing"
+        android:layout_width="280dp"
+        android:layout_height="52dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="40dp"
+        android:fontFamily="@font/gothica1_bold"
+        android:gravity="center_horizontal|center_vertical"
+        android:text="선물을 사용하시겠습니까?"
+        android:textColor="@color/black"
+        android:textSize="23sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="24dp">
+
+        <!-- "예" 버튼 -->
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/noButton_usingGift"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:fontFamily="@font/gothica1_regular"
+            android:text="아니오"
+            android:textSize="19sp"
+            android:textColor="@color/grey"
+            android:background="@drawable/btn_no"
+            android:layout_marginStart="20dp"
+            android:layout_marginEnd="10dp"
+            android:layout_marginBottom="20dp"/>
+
+        <!-- "아니오" 버튼 -->
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/yesButton_usingGift"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:fontFamily="@font/gothica1_regular"
+            android:text="예"
+            android:textSize="19sp"
+            android:textColor="@color/white"
+            android:background="@drawable/btn_yes"
+            android:layout_marginEnd="20dp"
+            android:layout_marginBottom="20dp"/>
+    </LinearLayout>
+</LinearLayout>

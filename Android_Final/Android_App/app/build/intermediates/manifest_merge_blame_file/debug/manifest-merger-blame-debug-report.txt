@@ -1,0 +1,520 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.projecttest"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+8-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="34" />
+9-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:5:5-67
+11-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+12-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:6:5-81
+12-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:6:22-78
+13    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+13-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:7:5-79
+13-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:7:22-76
+14    <uses-permission android:name="android.permission.ACTIVITY_RECOGNITION" />
+14-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:8:5-79
+14-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:8:22-76
+15    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" /> <!-- Include required permissions for Google Maps API to run. -->
+15-->[com.google.android.libraries.places:places:3.2.0] C:\CookAndroid\.gradle\caches\transforms-3\c027db000de849e8640ba3594ed5a918\transformed\jetified-places-3.2.0\AndroidManifest.xml:11:5-76
+15-->[com.google.android.libraries.places:places:3.2.0] C:\CookAndroid\.gradle\caches\transforms-3\c027db000de849e8640ba3594ed5a918\transformed\jetified-places-3.2.0\AndroidManifest.xml:11:22-73
+16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+16-->[com.google.android.gms:play-services-maps:18.1.0] C:\CookAndroid\.gradle\caches\transforms-3\d5bda3806b5e45c9a244dea401a2f056\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:23:5-79
+16-->[com.google.android.gms:play-services-maps:18.1.0] C:\CookAndroid\.gradle\caches\transforms-3\d5bda3806b5e45c9a244dea401a2f056\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:23:22-76
+17
+18    <uses-feature
+18-->[com.google.android.gms:play-services-maps:18.1.0] C:\CookAndroid\.gradle\caches\transforms-3\d5bda3806b5e45c9a244dea401a2f056\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:26:5-28:35
+19        android:glEsVersion="0x00020000"
+19-->[com.google.android.gms:play-services-maps:18.1.0] C:\CookAndroid\.gradle\caches\transforms-3\d5bda3806b5e45c9a244dea401a2f056\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:27:9-41
+20        android:required="true" />
+20-->[com.google.android.gms:play-services-maps:18.1.0] C:\CookAndroid\.gradle\caches\transforms-3\d5bda3806b5e45c9a244dea401a2f056\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:28:9-32
+21
+22    <queries>
+22-->[com.google.android.gms:play-services-maps:18.1.0] C:\CookAndroid\.gradle\caches\transforms-3\d5bda3806b5e45c9a244dea401a2f056\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:30:5-34:15
+23
+24        <!-- Needs to be explicitly declared on Android R+ -->
+25        <package android:name="com.google.android.apps.maps" />
+25-->[com.google.android.gms:play-services-maps:18.1.0] C:\CookAndroid\.gradle\caches\transforms-3\d5bda3806b5e45c9a244dea401a2f056\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:33:9-64
+25-->[com.google.android.gms:play-services-maps:18.1.0] C:\CookAndroid\.gradle\caches\transforms-3\d5bda3806b5e45c9a244dea401a2f056\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:33:18-61
+26    </queries>
+27
+28    <permission
+28-->[androidx.core:core:1.12.0] C:\CookAndroid\.gradle\caches\transforms-3\88e0c800e50498bdf7488648af35325c\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+29        android:name="com.example.projecttest.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+29-->[androidx.core:core:1.12.0] C:\CookAndroid\.gradle\caches\transforms-3\88e0c800e50498bdf7488648af35325c\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+30        android:protectionLevel="signature" />
+30-->[androidx.core:core:1.12.0] C:\CookAndroid\.gradle\caches\transforms-3\88e0c800e50498bdf7488648af35325c\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+31
+32    <uses-permission android:name="com.example.projecttest.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+32-->[androidx.core:core:1.12.0] C:\CookAndroid\.gradle\caches\transforms-3\88e0c800e50498bdf7488648af35325c\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+32-->[androidx.core:core:1.12.0] C:\CookAndroid\.gradle\caches\transforms-3\88e0c800e50498bdf7488648af35325c\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+33
+34    <application
+34-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:10:5-189:19
+35        android:allowBackup="true"
+35-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:11:9-35
+36        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+36-->[androidx.core:core:1.12.0] C:\CookAndroid\.gradle\caches\transforms-3\88e0c800e50498bdf7488648af35325c\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
+37        android:dataExtractionRules="@xml/data_extraction_rules"
+37-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:12:9-65
+38        android:debuggable="true"
+39        android:extractNativeLibs="false"
+40        android:fullBackupContent="@xml/backup_rules"
+40-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:13:9-54
+41        android:icon="@mipmap/logo"
+41-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:14:9-36
+42        android:label="@string/app_name"
+42-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:15:9-41
+43        android:roundIcon="@mipmap/logo"
+43-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:16:9-41
+44        android:supportsRtl="true"
+44-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:17:9-35
+45        android:testOnly="true"
+46        android:theme="@style/Theme.ProjectTest"
+46-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:18:9-49
+47        android:usesCleartextTraffic="true" >
+47-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:19:9-44
+48        <activity
+48-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:21:9-27:20
+49            android:name="com.example.projecttest.LocationLoadingActivity"
+49-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:22:13-52
+50            android:exported="false" >
+50-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:23:13-37
+51            <meta-data
+51-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:24:13-26:36
+52                android:name="android.app.lib_name"
+52-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:25:17-52
+53                android:value="" />
+53-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:26:17-33
+54        </activity>
+55        <activity
+55-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:28:9-34:20
+56            android:name="com.example.projecttest.MyLocationActivity"
+56-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:29:13-47
+57            android:exported="false" >
+57-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:30:13-37
+58            <meta-data
+58-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:24:13-26:36
+59                android:name="android.app.lib_name"
+59-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:25:17-52
+60                android:value="" />
+60-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:26:17-33
+61        </activity>
+62
+63        <meta-data
+63-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:36:9-38:69
+64            android:name="com.google.android.gms.version"
+64-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:37:13-58
+65            android:value="@integer/google_play_services_version" />
+65-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:38:13-66
+66        <meta-data
+66-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:39:9-41:71
+67            android:name="com.google.android.geo.API_KEY"
+67-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:40:13-58
+68            android:value="AIzaSyAPkzxxYvrSt57urHeOEqXTd3vdKz9sLVc" />
+68-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:41:13-68
+69
+70        <activity
+70-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:43:9-49:20
+71            android:name="com.example.projecttest.PaymentActivity2"
+71-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:44:13-45
+72            android:exported="false" >
+72-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:45:13-37
+73            <meta-data
+73-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:24:13-26:36
+74                android:name="android.app.lib_name"
+74-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:25:17-52
+75                android:value="" />
+75-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:26:17-33
+76        </activity>
+77        <activity
+77-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:50:9-56:20
+78            android:name="com.example.projecttest.GiftActivity"
+78-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:51:13-41
+79            android:exported="false" >
+79-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:52:13-37
+80            <meta-data
+80-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:24:13-26:36
+81                android:name="android.app.lib_name"
+81-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:25:17-52
+82                android:value="" />
+82-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:26:17-33
+83        </activity>
+84        <activity
+84-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:57:9-63:20
+85            android:name="com.example.projecttest.StepActivity"
+85-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:58:13-41
+86            android:exported="false" >
+86-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:59:13-37
+87            <meta-data
+87-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:24:13-26:36
+88                android:name="android.app.lib_name"
+88-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:25:17-52
+89                android:value="" />
+89-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:26:17-33
+90        </activity>
+91        <activity
+91-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:64:9-70:20
+92            android:name="com.example.projecttest.WaitingActivity"
+92-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:65:13-44
+93            android:exported="false" >
+93-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:66:13-37
+94            <meta-data
+94-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:24:13-26:36
+95                android:name="android.app.lib_name"
+95-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:25:17-52
+96                android:value="" />
+96-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:26:17-33
+97        </activity>
+98        <activity
+98-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:71:9-77:20
+99            android:name="com.example.projecttest.ReviewSelect"
+99-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:72:13-41
+100            android:exported="false" >
+100-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:73:13-37
+101            <meta-data
+101-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:24:13-26:36
+102                android:name="android.app.lib_name"
+102-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:25:17-52
+103                android:value="" />
+103-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:26:17-33
+104        </activity>
+105        <activity
+105-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:78:9-84:20
+106            android:name="com.example.projecttest.ResReviewActivity"
+106-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:79:13-46
+107            android:exported="false" >
+107-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:80:13-37
+108            <meta-data
+108-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:24:13-26:36
+109                android:name="android.app.lib_name"
+109-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:25:17-52
+110                android:value="" />
+110-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:26:17-33
+111        </activity>
+112        <activity
+112-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:85:9-91:20
+113            android:name="com.example.projecttest.PaymentActivity"
+113-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:86:13-44
+114            android:exported="false" >
+114-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:87:13-37
+115            <meta-data
+115-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:24:13-26:36
+116                android:name="android.app.lib_name"
+116-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:25:17-52
+117                android:value="" />
+117-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:26:17-33
+118        </activity>
+119        <activity
+119-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:92:9-98:20
+120            android:name="com.example.projecttest.MyInfoActivity"
+120-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:93:13-43
+121            android:exported="false" >
+121-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:94:13-37
+122            <meta-data
+122-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:24:13-26:36
+123                android:name="android.app.lib_name"
+123-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:25:17-52
+124                android:value="" />
+124-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:26:17-33
+125        </activity>
+126        <activity
+126-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:99:9-105:20
+127            android:name="com.example.projecttest.RestaurantMain"
+127-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:100:13-43
+128            android:exported="false" >
+128-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:101:13-37
+129            <meta-data
+129-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:24:13-26:36
+130                android:name="android.app.lib_name"
+130-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:25:17-52
+131                android:value="" />
+131-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:26:17-33
+132        </activity>
+133        <activity
+133-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:106:9-112:20
+134            android:name="com.example.projecttest.ROrderDetailActivity"
+134-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:107:13-49
+135            android:exported="false" >
+135-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:108:13-37
+136            <meta-data
+136-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:24:13-26:36
+137                android:name="android.app.lib_name"
+137-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:25:17-52
+138                android:value="" />
+138-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:26:17-33
+139        </activity>
+140        <activity
+140-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:113:9-119:20
+141            android:name="com.example.projecttest.OrderDetailActivity"
+141-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:114:13-48
+142            android:exported="false" >
+142-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:115:13-37
+143            <meta-data
+143-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:24:13-26:36
+144                android:name="android.app.lib_name"
+144-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:25:17-52
+145                android:value="" />
+145-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:26:17-33
+146        </activity>
+147        <activity
+147-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:120:9-126:20
+148            android:name="com.example.projecttest.MyHealthActivity"
+148-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:121:13-45
+149            android:exported="false" >
+149-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:122:13-37
+150            <meta-data
+150-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:24:13-26:36
+151                android:name="android.app.lib_name"
+151-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:25:17-52
+152                android:value="" />
+152-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:26:17-33
+153        </activity>
+154        <activity
+154-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:127:9-133:20
+155            android:name="com.example.projecttest.ReviewWriteActivity"
+155-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:128:13-48
+156            android:exported="false" >
+156-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:129:13-37
+157            <meta-data
+157-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:24:13-26:36
+158                android:name="android.app.lib_name"
+158-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:25:17-52
+159                android:value="" />
+159-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:26:17-33
+160        </activity>
+161        <activity
+161-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:134:9-140:20
+162            android:name="com.example.projecttest.ReviewActivity"
+162-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:135:13-43
+163            android:exported="false" >
+163-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:136:13-37
+164            <meta-data
+164-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:24:13-26:36
+165                android:name="android.app.lib_name"
+165-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:25:17-52
+166                android:value="" />
+166-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:26:17-33
+167        </activity>
+168        <activity
+168-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:141:9-147:20
+169            android:name="com.example.projecttest.NotificationWriteActivity"
+169-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:142:13-54
+170            android:exported="false" >
+170-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:143:13-37
+171            <meta-data
+171-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:24:13-26:36
+172                android:name="android.app.lib_name"
+172-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:25:17-52
+173                android:value="" />
+173-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:26:17-33
+174        </activity>
+175        <activity
+175-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:148:9-154:20
+176            android:name="com.example.projecttest.NotificationActivity"
+176-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:149:13-49
+177            android:exported="false" >
+177-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:150:13-37
+178            <meta-data
+178-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:24:13-26:36
+179                android:name="android.app.lib_name"
+179-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:25:17-52
+180                android:value="" />
+180-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:26:17-33
+181        </activity>
+182        <activity
+182-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:155:9-161:20
+183            android:name="com.example.projecttest.EtcActivity"
+183-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:156:13-40
+184            android:exported="false" >
+184-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:157:13-37
+185            <meta-data
+185-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:24:13-26:36
+186                android:name="android.app.lib_name"
+186-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:25:17-52
+187                android:value="" />
+187-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:26:17-33
+188        </activity>
+189        <activity
+189-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:162:9-168:20
+190            android:name="com.example.projecttest.OrderActivity"
+190-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:163:13-42
+191            android:exported="false" >
+191-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:164:13-37
+192            <meta-data
+192-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:24:13-26:36
+193                android:name="android.app.lib_name"
+193-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:25:17-52
+194                android:value="" />
+194-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:26:17-33
+195        </activity>
+196        <activity
+196-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:169:9-175:20
+197            android:name="com.example.projecttest.JoinActivity"
+197-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:170:13-41
+198            android:exported="false" >
+198-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:171:13-37
+199            <meta-data
+199-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:24:13-26:36
+200                android:name="android.app.lib_name"
+200-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:25:17-52
+201                android:value="" />
+201-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:26:17-33
+202        </activity>
+203        <activity
+203-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:176:9-188:20
+204            android:name="com.example.projecttest.MainActivity"
+204-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:177:13-41
+205            android:exported="true" >
+205-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:178:13-36
+206            <intent-filter>
+206-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:179:13-183:29
+207                <action android:name="android.intent.action.MAIN" />
+207-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:180:17-69
+207-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:180:25-66
+208
+209                <category android:name="android.intent.category.LAUNCHER" />
+209-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:182:17-77
+209-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:182:27-74
+210            </intent-filter>
+211
+212            <meta-data
+212-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:24:13-26:36
+213                android:name="android.app.lib_name"
+213-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:25:17-52
+214                android:value="" />
+214-->C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:26:17-33
+215        </activity>
+216        <activity
+216-->[com.google.android.libraries.places:places:3.2.0] C:\CookAndroid\.gradle\caches\transforms-3\c027db000de849e8640ba3594ed5a918\transformed\jetified-places-3.2.0\AndroidManifest.xml:15:9-21:20
+217            android:name="com.google.android.libraries.places.widget.AutocompleteActivity"
+217-->[com.google.android.libraries.places:places:3.2.0] C:\CookAndroid\.gradle\caches\transforms-3\c027db000de849e8640ba3594ed5a918\transformed\jetified-places-3.2.0\AndroidManifest.xml:16:13-91
+218            android:exported="false"
+218-->[com.google.android.libraries.places:places:3.2.0] C:\CookAndroid\.gradle\caches\transforms-3\c027db000de849e8640ba3594ed5a918\transformed\jetified-places-3.2.0\AndroidManifest.xml:17:13-37
+219            android:label="@string/places_autocomplete_label"
+219-->[com.google.android.libraries.places:places:3.2.0] C:\CookAndroid\.gradle\caches\transforms-3\c027db000de849e8640ba3594ed5a918\transformed\jetified-places-3.2.0\AndroidManifest.xml:18:13-62
+220            android:theme="@style/PlacesAutocompleteOverlay"
+220-->[com.google.android.libraries.places:places:3.2.0] C:\CookAndroid\.gradle\caches\transforms-3\c027db000de849e8640ba3594ed5a918\transformed\jetified-places-3.2.0\AndroidManifest.xml:19:13-61
+221            android:windowSoftInputMode="adjustResize" >
+221-->[com.google.android.libraries.places:places:3.2.0] C:\CookAndroid\.gradle\caches\transforms-3\c027db000de849e8640ba3594ed5a918\transformed\jetified-places-3.2.0\AndroidManifest.xml:20:13-55
+222        </activity> <!-- Needs to be explicitly declared on P+ -->
+223        <uses-library
+223-->[com.google.android.gms:play-services-maps:18.1.0] C:\CookAndroid\.gradle\caches\transforms-3\d5bda3806b5e45c9a244dea401a2f056\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:39:9-41:40
+224            android:name="org.apache.http.legacy"
+224-->[com.google.android.gms:play-services-maps:18.1.0] C:\CookAndroid\.gradle\caches\transforms-3\d5bda3806b5e45c9a244dea401a2f056\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:40:13-50
+225            android:required="false" />
+225-->[com.google.android.gms:play-services-maps:18.1.0] C:\CookAndroid\.gradle\caches\transforms-3\d5bda3806b5e45c9a244dea401a2f056\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:41:13-37
+226
+227        <activity
+227-->[com.google.android.gms:play-services-base:18.1.0] C:\CookAndroid\.gradle\caches\transforms-3\05de64e5437f88968b334aa66f987b5c\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+228            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+228-->[com.google.android.gms:play-services-base:18.1.0] C:\CookAndroid\.gradle\caches\transforms-3\05de64e5437f88968b334aa66f987b5c\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+229            android:exported="false"
+229-->[com.google.android.gms:play-services-base:18.1.0] C:\CookAndroid\.gradle\caches\transforms-3\05de64e5437f88968b334aa66f987b5c\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+230            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+230-->[com.google.android.gms:play-services-base:18.1.0] C:\CookAndroid\.gradle\caches\transforms-3\05de64e5437f88968b334aa66f987b5c\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+231
+232        <provider
+232-->[androidx.emoji2:emoji2:1.2.0] C:\CookAndroid\.gradle\caches\transforms-3\95a25db587b992b18041c5fac1055f24\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+233            android:name="androidx.startup.InitializationProvider"
+233-->[androidx.emoji2:emoji2:1.2.0] C:\CookAndroid\.gradle\caches\transforms-3\95a25db587b992b18041c5fac1055f24\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+234            android:authorities="com.example.projecttest.androidx-startup"
+234-->[androidx.emoji2:emoji2:1.2.0] C:\CookAndroid\.gradle\caches\transforms-3\95a25db587b992b18041c5fac1055f24\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+235            android:exported="false" >
+235-->[androidx.emoji2:emoji2:1.2.0] C:\CookAndroid\.gradle\caches\transforms-3\95a25db587b992b18041c5fac1055f24\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+236            <meta-data
+236-->[androidx.emoji2:emoji2:1.2.0] C:\CookAndroid\.gradle\caches\transforms-3\95a25db587b992b18041c5fac1055f24\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+237                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+237-->[androidx.emoji2:emoji2:1.2.0] C:\CookAndroid\.gradle\caches\transforms-3\95a25db587b992b18041c5fac1055f24\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+238                android:value="androidx.startup" />
+238-->[androidx.emoji2:emoji2:1.2.0] C:\CookAndroid\.gradle\caches\transforms-3\95a25db587b992b18041c5fac1055f24\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+239            <meta-data
+239-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\CookAndroid\.gradle\caches\transforms-3\65701352bf6d42bdc1bdc062ae530f8a\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+240                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+240-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\CookAndroid\.gradle\caches\transforms-3\65701352bf6d42bdc1bdc062ae530f8a\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+241                android:value="androidx.startup" />
+241-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\CookAndroid\.gradle\caches\transforms-3\65701352bf6d42bdc1bdc062ae530f8a\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+242            <meta-data
+242-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\CookAndroid\.gradle\caches\transforms-3\157d845cbc131ecdd2628f1b01db797a\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+243                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+243-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\CookAndroid\.gradle\caches\transforms-3\157d845cbc131ecdd2628f1b01db797a\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+244                android:value="androidx.startup" />
+244-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\CookAndroid\.gradle\caches\transforms-3\157d845cbc131ecdd2628f1b01db797a\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+245        </provider>
+246
+247        <service
+247-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\CookAndroid\.gradle\caches\transforms-3\98b5be37195c3c690d779db5cb8be953\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:29:9-35:19
+248            android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
+248-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\CookAndroid\.gradle\caches\transforms-3\98b5be37195c3c690d779db5cb8be953\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:30:13-103
+249            android:exported="false" >
+249-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\CookAndroid\.gradle\caches\transforms-3\98b5be37195c3c690d779db5cb8be953\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:31:13-37
+250            <meta-data
+250-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\CookAndroid\.gradle\caches\transforms-3\98b5be37195c3c690d779db5cb8be953\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:32:13-34:39
+251                android:name="backend:com.google.android.datatransport.cct.CctBackendFactory"
+251-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\CookAndroid\.gradle\caches\transforms-3\98b5be37195c3c690d779db5cb8be953\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:33:17-94
+252                android:value="cct" />
+252-->[com.google.android.datatransport:transport-backend-cct:2.3.0] C:\CookAndroid\.gradle\caches\transforms-3\98b5be37195c3c690d779db5cb8be953\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:34:17-36
+253        </service>
+254        <service
+254-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\CookAndroid\.gradle\caches\transforms-3\934f8bb386fad19493618f6ba1a8db62\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:26:9-30:19
+255            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService"
+255-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\CookAndroid\.gradle\caches\transforms-3\934f8bb386fad19493618f6ba1a8db62\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:27:13-117
+256            android:exported="false"
+256-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\CookAndroid\.gradle\caches\transforms-3\934f8bb386fad19493618f6ba1a8db62\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:28:13-37
+257            android:permission="android.permission.BIND_JOB_SERVICE" >
+257-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\CookAndroid\.gradle\caches\transforms-3\934f8bb386fad19493618f6ba1a8db62\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:29:13-69
+258        </service>
+259
+260        <receiver
+260-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\CookAndroid\.gradle\caches\transforms-3\934f8bb386fad19493618f6ba1a8db62\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:32:9-34:40
+261            android:name="com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver"
+261-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\CookAndroid\.gradle\caches\transforms-3\934f8bb386fad19493618f6ba1a8db62\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:33:13-132
+262            android:exported="false" />
+262-->[com.google.android.datatransport:transport-runtime:2.2.3] C:\CookAndroid\.gradle\caches\transforms-3\934f8bb386fad19493618f6ba1a8db62\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:34:13-37
+263        <receiver
+263-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\CookAndroid\.gradle\caches\transforms-3\157d845cbc131ecdd2628f1b01db797a\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+264            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+264-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\CookAndroid\.gradle\caches\transforms-3\157d845cbc131ecdd2628f1b01db797a\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+265            android:directBootAware="false"
+265-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\CookAndroid\.gradle\caches\transforms-3\157d845cbc131ecdd2628f1b01db797a\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+266            android:enabled="true"
+266-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\CookAndroid\.gradle\caches\transforms-3\157d845cbc131ecdd2628f1b01db797a\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+267            android:exported="true"
+267-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\CookAndroid\.gradle\caches\transforms-3\157d845cbc131ecdd2628f1b01db797a\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+268            android:permission="android.permission.DUMP" >
+268-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\CookAndroid\.gradle\caches\transforms-3\157d845cbc131ecdd2628f1b01db797a\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+269            <intent-filter>
+269-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\CookAndroid\.gradle\caches\transforms-3\157d845cbc131ecdd2628f1b01db797a\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+270                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+270-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\CookAndroid\.gradle\caches\transforms-3\157d845cbc131ecdd2628f1b01db797a\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+270-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\CookAndroid\.gradle\caches\transforms-3\157d845cbc131ecdd2628f1b01db797a\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+271            </intent-filter>
+272            <intent-filter>
+272-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\CookAndroid\.gradle\caches\transforms-3\157d845cbc131ecdd2628f1b01db797a\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+273                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+273-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\CookAndroid\.gradle\caches\transforms-3\157d845cbc131ecdd2628f1b01db797a\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+273-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\CookAndroid\.gradle\caches\transforms-3\157d845cbc131ecdd2628f1b01db797a\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+274            </intent-filter>
+275            <intent-filter>
+275-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\CookAndroid\.gradle\caches\transforms-3\157d845cbc131ecdd2628f1b01db797a\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+276                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+276-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\CookAndroid\.gradle\caches\transforms-3\157d845cbc131ecdd2628f1b01db797a\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+276-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\CookAndroid\.gradle\caches\transforms-3\157d845cbc131ecdd2628f1b01db797a\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+277            </intent-filter>
+278            <intent-filter>
+278-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\CookAndroid\.gradle\caches\transforms-3\157d845cbc131ecdd2628f1b01db797a\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+279                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+279-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\CookAndroid\.gradle\caches\transforms-3\157d845cbc131ecdd2628f1b01db797a\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+279-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\CookAndroid\.gradle\caches\transforms-3\157d845cbc131ecdd2628f1b01db797a\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+280            </intent-filter>
+281        </receiver>
+282    </application>
+283
+284</manifest>

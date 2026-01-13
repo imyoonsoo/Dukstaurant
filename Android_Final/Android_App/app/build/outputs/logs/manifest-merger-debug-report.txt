@@ -1,0 +1,629 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:2:1-191:12
+INJECTED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:2:1-191:12
+INJECTED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:2:1-191:12
+INJECTED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:2:1-191:12
+MERGED from [androidx.databinding:viewbinding:7.3.0] C:\CookAndroid\.gradle\caches\transforms-3\9424892bb9cb6c748bf0988f8f2b8689\transformed\jetified-viewbinding-7.3.0\AndroidManifest.xml:2:1-9:12
+MERGED from [:wheelview] C:\project\Top\Final\Andorid_Final\Android_App\wheelview\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.10.0] C:\CookAndroid\.gradle\caches\transforms-3\6745e7e1d77d1b726a7054df516a05e6\transformed\material-1.10.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\CookAndroid\.gradle\caches\transforms-3\58b904fd04415c80f054dd6c0ae69d92\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.libraries.places:places:3.2.0] C:\CookAndroid\.gradle\caches\transforms-3\c027db000de849e8640ba3594ed5a918\transformed\jetified-places-3.2.0\AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\CookAndroid\.gradle\caches\transforms-3\ffa2d5fc3551556c3272e8b29b5f9e3a\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\CookAndroid\.gradle\caches\transforms-3\e776ff4aec03f396eb1ff81e33a8977c\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\CookAndroid\.gradle\caches\transforms-3\d5bda3806b5e45c9a244dea401a2f056\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:17:1-44:12
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\CookAndroid\.gradle\caches\transforms-3\5848033c9862753d0c637fad5789d37c\transformed\jetified-glide-4.12.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\CookAndroid\.gradle\caches\transforms-3\cc6345f8f6fe2630f4af477a18de4bda\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\CookAndroid\.gradle\caches\transforms-3\2eae865f4ea3d192a704a520278c5f68\transformed\jetified-play-services-location-21.0.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\CookAndroid\.gradle\caches\transforms-3\05de64e5437f88968b334aa66f987b5c\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\CookAndroid\.gradle\caches\transforms-3\fb2a4b116c84fe466b44ad85f4d0aa61\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\CookAndroid\.gradle\caches\transforms-3\64c9fe42891df89f325e9bf2917d1cbb\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.3.6] C:\CookAndroid\.gradle\caches\transforms-3\7e0903701f48ebdfb7f6f0e9a6dca0a6\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.0] C:\CookAndroid\.gradle\caches\transforms-3\aed2a29383976f03dde7a647ce8d5d1b\transformed\jetified-activity-1.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.12.0] C:\CookAndroid\.gradle\caches\transforms-3\361df7572166efb2aec9a2a838b3367d\transformed\jetified-core-ktx-1.12.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\CookAndroid\.gradle\caches\transforms-3\fcb551a4c73f790bc2bc8f1410aae928\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\CookAndroid\.gradle\caches\transforms-3\95a25db587b992b18041c5fac1055f24\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\CookAndroid\.gradle\caches\transforms-3\37787252caeddcc0b8ae031db27d4d8d\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\CookAndroid\.gradle\caches\transforms-3\31fb5f1b7c660208c33313e508b96613\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\CookAndroid\.gradle\caches\transforms-3\adf97735d59faac00e58f310b527a4b3\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\CookAndroid\.gradle\caches\transforms-3\652f3e603e92bc7aaccd6ee26a8e95b0\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\CookAndroid\.gradle\caches\transforms-3\4b74b72623f922741a96a89b603d9977\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\CookAndroid\.gradle\caches\transforms-3\3df77ba521d6458b25e4bcf1b718d40b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\CookAndroid\.gradle\caches\transforms-3\8467ca3a211f2359634c8046ce682275\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\CookAndroid\.gradle\caches\transforms-3\fcfd53f5278af724bc67eb0038f37cde\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\CookAndroid\.gradle\caches\transforms-3\69378615f65a84dbb668d58e566a3b19\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\CookAndroid\.gradle\caches\transforms-3\6e4c4223b6dbbcce62687209ea336715\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] C:\CookAndroid\.gradle\caches\transforms-3\96ca5e0bd21bc66e2378c8fd438a00f2\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.12.0] C:\CookAndroid\.gradle\caches\transforms-3\88e0c800e50498bdf7488648af35325c\transformed\core-1.12.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\CookAndroid\.gradle\caches\transforms-3\0508e1954a6c127f0d8e5dc6a53ebdc3\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\CookAndroid\.gradle\caches\transforms-3\65701352bf6d42bdc1bdc062ae530f8a\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\CookAndroid\.gradle\caches\transforms-3\36675b1605de434f0246133d079a659b\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\CookAndroid\.gradle\caches\transforms-3\a8d1cabf2e80328c81e2530a34a8ab96\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\CookAndroid\.gradle\caches\transforms-3\1699c4ddcde11ba8b98ca452ae2f68fc\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\CookAndroid\.gradle\caches\transforms-3\7005ae8009deacc6d5123ef74e96e866\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\CookAndroid\.gradle\caches\transforms-3\4092bcf1ac5a01072af603cdd4924017\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\CookAndroid\.gradle\caches\transforms-3\4af7baccc251e362b145ac28ac8c0df4\transformed\jetified-MPAndroidChart-v3.1.0\AndroidManifest.xml:2:1-20:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\CookAndroid\.gradle\caches\transforms-3\9e6124f9aebda962449d9491b0c90cbc\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\CookAndroid\.gradle\caches\transforms-3\2c2bb00796480f534252238784aa3f22\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.0] C:\CookAndroid\.gradle\caches\transforms-3\98b5be37195c3c690d779db5cb8be953\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.3] C:\CookAndroid\.gradle\caches\transforms-3\934f8bb386fad19493618f6ba1a8db62\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:15:1-41:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\CookAndroid\.gradle\caches\transforms-3\0a7626a1b7e453d633aa934479fa1bf9\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\CookAndroid\.gradle\caches\transforms-3\a95d879e3e5cf5f2c2a9084c209e93f1\transformed\exifinterface-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\CookAndroid\.gradle\caches\transforms-3\29bfc0cba97246b3996690c3a8b6501d\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\CookAndroid\.gradle\caches\transforms-3\e5832709af751c1fe62466b8f8a56be9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\CookAndroid\.gradle\caches\transforms-3\157d845cbc131ecdd2628f1b01db797a\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\CookAndroid\.gradle\caches\transforms-3\88801031383d9ce2c2955467f22a5694\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\CookAndroid\.gradle\caches\transforms-3\b8d101bc601f562214a4276fc97f401d\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-encoders-json:16.1.0] C:\CookAndroid\.gradle\caches\transforms-3\572f98439c28b5838d3c2cf037906d94\transformed\jetified-firebase-encoders-json-16.1.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\CookAndroid\.gradle\caches\transforms-3\0a8f6336a914e97b56dac8b3b9912f6a\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\CookAndroid\.gradle\caches\transforms-3\6aa5d4722e490cb1b01319c191a5aab0\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\CookAndroid\.gradle\caches\transforms-3\a8d6573ec9b578c1c621a4bdab9198e0\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\CookAndroid\.gradle\caches\transforms-3\71eda68c1de07377e68ad7854b12f6e1\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\CookAndroid\.gradle\caches\transforms-3\0140eaf35aa55f5676f984a11d97af6c\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.volley:volley:1.2.1] C:\CookAndroid\.gradle\caches\transforms-3\aba8d2b04af58eee883beb149fb523f3\transformed\jetified-volley-1.2.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\CookAndroid\.gradle\caches\transforms-3\1fd2239a63613b95f1ce36988d424fb6\transformed\jetified-transport-api-2.2.0\AndroidManifest.xml:15:1-22:12
+INJECTED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:2:1-191:12
+INJECTED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:2:1-191:12
+INJECTED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:2:1-191:12
+	package
+		INJECTED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:2:1-191:12
+		INJECTED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:2:1-191:12
+		INJECTED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:2:1-191:12
+		INJECTED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.libraries.places:places:3.2.0] C:\CookAndroid\.gradle\caches\transforms-3\c027db000de849e8640ba3594ed5a918\transformed\jetified-places-3.2.0\AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.libraries.places:places:3.2.0] C:\CookAndroid\.gradle\caches\transforms-3\c027db000de849e8640ba3594ed5a918\transformed\jetified-places-3.2.0\AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\CookAndroid\.gradle\caches\transforms-3\d5bda3806b5e45c9a244dea401a2f056\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\CookAndroid\.gradle\caches\transforms-3\d5bda3806b5e45c9a244dea401a2f056\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.0] C:\CookAndroid\.gradle\caches\transforms-3\98b5be37195c3c690d779db5cb8be953\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:26:5-67
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.0] C:\CookAndroid\.gradle\caches\transforms-3\98b5be37195c3c690d779db5cb8be953\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:6:5-81
+MERGED from [com.google.android.libraries.places:places:3.2.0] C:\CookAndroid\.gradle\caches\transforms-3\c027db000de849e8640ba3594ed5a918\transformed\jetified-places-3.2.0\AndroidManifest.xml:9:5-81
+MERGED from [com.google.android.libraries.places:places:3.2.0] C:\CookAndroid\.gradle\caches\transforms-3\c027db000de849e8640ba3594ed5a918\transformed\jetified-places-3.2.0\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.libraries.places:places:3.2.0] C:\CookAndroid\.gradle\caches\transforms-3\c027db000de849e8640ba3594ed5a918\transformed\jetified-places-3.2.0\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.libraries.places:places:3.2.0] C:\CookAndroid\.gradle\caches\transforms-3\c027db000de849e8640ba3594ed5a918\transformed\jetified-places-3.2.0\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACTIVITY_RECOGNITION
+ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:8:22-76
+application
+ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:10:5-189:19
+MERGED from [com.google.android.material:material:1.10.0] C:\CookAndroid\.gradle\caches\transforms-3\6745e7e1d77d1b726a7054df516a05e6\transformed\material-1.10.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.10.0] C:\CookAndroid\.gradle\caches\transforms-3\6745e7e1d77d1b726a7054df516a05e6\transformed\material-1.10.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\CookAndroid\.gradle\caches\transforms-3\58b904fd04415c80f054dd6c0ae69d92\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\CookAndroid\.gradle\caches\transforms-3\58b904fd04415c80f054dd6c0ae69d92\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.libraries.places:places:3.2.0] C:\CookAndroid\.gradle\caches\transforms-3\c027db000de849e8640ba3594ed5a918\transformed\jetified-places-3.2.0\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.android.libraries.places:places:3.2.0] C:\CookAndroid\.gradle\caches\transforms-3\c027db000de849e8640ba3594ed5a918\transformed\jetified-places-3.2.0\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\CookAndroid\.gradle\caches\transforms-3\d5bda3806b5e45c9a244dea401a2f056\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\CookAndroid\.gradle\caches\transforms-3\d5bda3806b5e45c9a244dea401a2f056\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:36:5-42:19
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\CookAndroid\.gradle\caches\transforms-3\5848033c9862753d0c637fad5789d37c\transformed\jetified-glide-4.12.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\CookAndroid\.gradle\caches\transforms-3\5848033c9862753d0c637fad5789d37c\transformed\jetified-glide-4.12.0\AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\CookAndroid\.gradle\caches\transforms-3\2eae865f4ea3d192a704a520278c5f68\transformed\jetified-play-services-location-21.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\CookAndroid\.gradle\caches\transforms-3\2eae865f4ea3d192a704a520278c5f68\transformed\jetified-play-services-location-21.0.1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\CookAndroid\.gradle\caches\transforms-3\05de64e5437f88968b334aa66f987b5c\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\CookAndroid\.gradle\caches\transforms-3\05de64e5437f88968b334aa66f987b5c\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\CookAndroid\.gradle\caches\transforms-3\fb2a4b116c84fe466b44ad85f4d0aa61\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\CookAndroid\.gradle\caches\transforms-3\fb2a4b116c84fe466b44ad85f4d0aa61\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\CookAndroid\.gradle\caches\transforms-3\64c9fe42891df89f325e9bf2917d1cbb\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\CookAndroid\.gradle\caches\transforms-3\64c9fe42891df89f325e9bf2917d1cbb\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\CookAndroid\.gradle\caches\transforms-3\95a25db587b992b18041c5fac1055f24\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\CookAndroid\.gradle\caches\transforms-3\95a25db587b992b18041c5fac1055f24\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.12.0] C:\CookAndroid\.gradle\caches\transforms-3\88e0c800e50498bdf7488648af35325c\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] C:\CookAndroid\.gradle\caches\transforms-3\88e0c800e50498bdf7488648af35325c\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\CookAndroid\.gradle\caches\transforms-3\65701352bf6d42bdc1bdc062ae530f8a\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\CookAndroid\.gradle\caches\transforms-3\65701352bf6d42bdc1bdc062ae530f8a\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.0] C:\CookAndroid\.gradle\caches\transforms-3\98b5be37195c3c690d779db5cb8be953\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.0] C:\CookAndroid\.gradle\caches\transforms-3\98b5be37195c3c690d779db5cb8be953\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.3] C:\CookAndroid\.gradle\caches\transforms-3\934f8bb386fad19493618f6ba1a8db62\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:25:5-39:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.3] C:\CookAndroid\.gradle\caches\transforms-3\934f8bb386fad19493618f6ba1a8db62\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:25:5-39:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\CookAndroid\.gradle\caches\transforms-3\0a7626a1b7e453d633aa934479fa1bf9\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\CookAndroid\.gradle\caches\transforms-3\0a7626a1b7e453d633aa934479fa1bf9\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\CookAndroid\.gradle\caches\transforms-3\e5832709af751c1fe62466b8f8a56be9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\CookAndroid\.gradle\caches\transforms-3\e5832709af751c1fe62466b8f8a56be9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\CookAndroid\.gradle\caches\transforms-3\157d845cbc131ecdd2628f1b01db797a\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\CookAndroid\.gradle\caches\transforms-3\157d845cbc131ecdd2628f1b01db797a\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\CookAndroid\.gradle\caches\transforms-3\88801031383d9ce2c2955467f22a5694\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\CookAndroid\.gradle\caches\transforms-3\88801031383d9ce2c2955467f22a5694\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0] C:\CookAndroid\.gradle\caches\transforms-3\88e0c800e50498bdf7488648af35325c\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:15:9-41
+	android:fullBackupContent
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:13:9-54
+	android:roundIcon
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:16:9-41
+	tools:targetApi
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:20:9-29
+	android:icon
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:14:9-36
+	android:allowBackup
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:18:9-49
+	android:dataExtractionRules
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:12:9-65
+	android:usesCleartextTraffic
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:19:9-44
+activity#com.example.projecttest.LocationLoadingActivity
+ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:21:9-27:20
+	android:exported
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:23:13-37
+	android:name
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:22:13-52
+meta-data#android.app.lib_name
+ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:24:13-26:36
+	android:value
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:26:17-33
+	android:name
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:25:17-52
+activity#com.example.projecttest.MyLocationActivity
+ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:28:9-34:20
+	android:exported
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:29:13-47
+meta-data#com.google.android.gms.version
+ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:36:9-38:69
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\CookAndroid\.gradle\caches\transforms-3\64c9fe42891df89f325e9bf2917d1cbb\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\CookAndroid\.gradle\caches\transforms-3\64c9fe42891df89f325e9bf2917d1cbb\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:38:13-66
+	android:name
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:37:13-58
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:39:9-41:71
+	android:value
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:41:13-68
+	android:name
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:40:13-58
+activity#com.example.projecttest.PaymentActivity2
+ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:43:9-49:20
+	android:exported
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:45:13-37
+	android:name
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:44:13-45
+activity#com.example.projecttest.GiftActivity
+ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:50:9-56:20
+	android:exported
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:52:13-37
+	android:name
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:51:13-41
+activity#com.example.projecttest.StepActivity
+ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:57:9-63:20
+	android:exported
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:59:13-37
+	android:name
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:58:13-41
+activity#com.example.projecttest.WaitingActivity
+ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:64:9-70:20
+	android:exported
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:66:13-37
+	android:name
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:65:13-44
+activity#com.example.projecttest.ReviewSelect
+ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:71:9-77:20
+	android:exported
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:73:13-37
+	android:name
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:72:13-41
+activity#com.example.projecttest.ResReviewActivity
+ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:78:9-84:20
+	android:exported
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:80:13-37
+	android:name
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:79:13-46
+activity#com.example.projecttest.PaymentActivity
+ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:85:9-91:20
+	android:exported
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:87:13-37
+	android:name
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:86:13-44
+activity#com.example.projecttest.MyInfoActivity
+ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:92:9-98:20
+	android:exported
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:94:13-37
+	android:name
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:93:13-43
+activity#com.example.projecttest.RestaurantMain
+ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:99:9-105:20
+	android:exported
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:101:13-37
+	android:name
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:100:13-43
+activity#com.example.projecttest.ROrderDetailActivity
+ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:106:9-112:20
+	android:exported
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:108:13-37
+	android:name
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:107:13-49
+activity#com.example.projecttest.OrderDetailActivity
+ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:113:9-119:20
+	android:exported
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:115:13-37
+	android:name
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:114:13-48
+activity#com.example.projecttest.MyHealthActivity
+ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:120:9-126:20
+	android:exported
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:122:13-37
+	android:name
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:121:13-45
+activity#com.example.projecttest.ReviewWriteActivity
+ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:127:9-133:20
+	android:exported
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:129:13-37
+	android:name
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:128:13-48
+activity#com.example.projecttest.ReviewActivity
+ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:134:9-140:20
+	android:exported
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:136:13-37
+	android:name
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:135:13-43
+activity#com.example.projecttest.NotificationWriteActivity
+ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:141:9-147:20
+	android:exported
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:143:13-37
+	android:name
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:142:13-54
+activity#com.example.projecttest.NotificationActivity
+ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:148:9-154:20
+	android:exported
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:150:13-37
+	android:name
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:149:13-49
+activity#com.example.projecttest.EtcActivity
+ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:155:9-161:20
+	android:exported
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:157:13-37
+	android:name
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:156:13-40
+activity#com.example.projecttest.OrderActivity
+ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:162:9-168:20
+	android:exported
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:164:13-37
+	android:name
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:163:13-42
+activity#com.example.projecttest.JoinActivity
+ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:169:9-175:20
+	android:exported
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:171:13-37
+	android:name
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:170:13-41
+activity#com.example.projecttest.MainActivity
+ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:176:9-188:20
+	android:exported
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:178:13-36
+	android:name
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:177:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:179:13-183:29
+action#android.intent.action.MAIN
+ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:180:17-69
+	android:name
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:180:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:182:17-77
+	android:name
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml:182:27-74
+uses-sdk
+INJECTED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml
+INJECTED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.3.0] C:\CookAndroid\.gradle\caches\transforms-3\9424892bb9cb6c748bf0988f8f2b8689\transformed\jetified-viewbinding-7.3.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:viewbinding:7.3.0] C:\CookAndroid\.gradle\caches\transforms-3\9424892bb9cb6c748bf0988f8f2b8689\transformed\jetified-viewbinding-7.3.0\AndroidManifest.xml:5:5-7:41
+MERGED from [:wheelview] C:\project\Top\Final\Andorid_Final\Android_App\wheelview\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:wheelview] C:\project\Top\Final\Andorid_Final\Android_App\wheelview\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.10.0] C:\CookAndroid\.gradle\caches\transforms-3\6745e7e1d77d1b726a7054df516a05e6\transformed\material-1.10.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.10.0] C:\CookAndroid\.gradle\caches\transforms-3\6745e7e1d77d1b726a7054df516a05e6\transformed\material-1.10.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\CookAndroid\.gradle\caches\transforms-3\58b904fd04415c80f054dd6c0ae69d92\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\CookAndroid\.gradle\caches\transforms-3\58b904fd04415c80f054dd6c0ae69d92\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.libraries.places:places:3.2.0] C:\CookAndroid\.gradle\caches\transforms-3\c027db000de849e8640ba3594ed5a918\transformed\jetified-places-3.2.0\AndroidManifest.xml:7:5-44
+MERGED from [com.google.android.libraries.places:places:3.2.0] C:\CookAndroid\.gradle\caches\transforms-3\c027db000de849e8640ba3594ed5a918\transformed\jetified-places-3.2.0\AndroidManifest.xml:7:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\CookAndroid\.gradle\caches\transforms-3\ffa2d5fc3551556c3272e8b29b5f9e3a\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\CookAndroid\.gradle\caches\transforms-3\ffa2d5fc3551556c3272e8b29b5f9e3a\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\CookAndroid\.gradle\caches\transforms-3\e776ff4aec03f396eb1ff81e33a8977c\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\CookAndroid\.gradle\caches\transforms-3\e776ff4aec03f396eb1ff81e33a8977c\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\CookAndroid\.gradle\caches\transforms-3\d5bda3806b5e45c9a244dea401a2f056\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\CookAndroid\.gradle\caches\transforms-3\d5bda3806b5e45c9a244dea401a2f056\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\CookAndroid\.gradle\caches\transforms-3\5848033c9862753d0c637fad5789d37c\transformed\jetified-glide-4.12.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.12.0] C:\CookAndroid\.gradle\caches\transforms-3\5848033c9862753d0c637fad5789d37c\transformed\jetified-glide-4.12.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\CookAndroid\.gradle\caches\transforms-3\cc6345f8f6fe2630f4af477a18de4bda\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\CookAndroid\.gradle\caches\transforms-3\cc6345f8f6fe2630f4af477a18de4bda\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\CookAndroid\.gradle\caches\transforms-3\2eae865f4ea3d192a704a520278c5f68\transformed\jetified-play-services-location-21.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:21.0.1] C:\CookAndroid\.gradle\caches\transforms-3\2eae865f4ea3d192a704a520278c5f68\transformed\jetified-play-services-location-21.0.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\CookAndroid\.gradle\caches\transforms-3\05de64e5437f88968b334aa66f987b5c\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.1.0] C:\CookAndroid\.gradle\caches\transforms-3\05de64e5437f88968b334aa66f987b5c\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\CookAndroid\.gradle\caches\transforms-3\fb2a4b116c84fe466b44ad85f4d0aa61\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.2] C:\CookAndroid\.gradle\caches\transforms-3\fb2a4b116c84fe466b44ad85f4d0aa61\transformed\jetified-play-services-tasks-18.0.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\CookAndroid\.gradle\caches\transforms-3\64c9fe42891df89f325e9bf2917d1cbb\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] C:\CookAndroid\.gradle\caches\transforms-3\64c9fe42891df89f325e9bf2917d1cbb\transformed\jetified-play-services-basement-18.1.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.3.6] C:\CookAndroid\.gradle\caches\transforms-3\7e0903701f48ebdfb7f6f0e9a6dca0a6\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] C:\CookAndroid\.gradle\caches\transforms-3\7e0903701f48ebdfb7f6f0e9a6dca0a6\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.0] C:\CookAndroid\.gradle\caches\transforms-3\aed2a29383976f03dde7a647ce8d5d1b\transformed\jetified-activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] C:\CookAndroid\.gradle\caches\transforms-3\aed2a29383976f03dde7a647ce8d5d1b\transformed\jetified-activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] C:\CookAndroid\.gradle\caches\transforms-3\361df7572166efb2aec9a2a838b3367d\transformed\jetified-core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] C:\CookAndroid\.gradle\caches\transforms-3\361df7572166efb2aec9a2a838b3367d\transformed\jetified-core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\CookAndroid\.gradle\caches\transforms-3\fcb551a4c73f790bc2bc8f1410aae928\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\CookAndroid\.gradle\caches\transforms-3\fcb551a4c73f790bc2bc8f1410aae928\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\CookAndroid\.gradle\caches\transforms-3\95a25db587b992b18041c5fac1055f24\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\CookAndroid\.gradle\caches\transforms-3\95a25db587b992b18041c5fac1055f24\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\CookAndroid\.gradle\caches\transforms-3\37787252caeddcc0b8ae031db27d4d8d\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\CookAndroid\.gradle\caches\transforms-3\37787252caeddcc0b8ae031db27d4d8d\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\CookAndroid\.gradle\caches\transforms-3\31fb5f1b7c660208c33313e508b96613\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\CookAndroid\.gradle\caches\transforms-3\31fb5f1b7c660208c33313e508b96613\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\CookAndroid\.gradle\caches\transforms-3\adf97735d59faac00e58f310b527a4b3\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\CookAndroid\.gradle\caches\transforms-3\adf97735d59faac00e58f310b527a4b3\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\CookAndroid\.gradle\caches\transforms-3\652f3e603e92bc7aaccd6ee26a8e95b0\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\CookAndroid\.gradle\caches\transforms-3\652f3e603e92bc7aaccd6ee26a8e95b0\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\CookAndroid\.gradle\caches\transforms-3\4b74b72623f922741a96a89b603d9977\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\CookAndroid\.gradle\caches\transforms-3\4b74b72623f922741a96a89b603d9977\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\CookAndroid\.gradle\caches\transforms-3\3df77ba521d6458b25e4bcf1b718d40b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\CookAndroid\.gradle\caches\transforms-3\3df77ba521d6458b25e4bcf1b718d40b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\CookAndroid\.gradle\caches\transforms-3\8467ca3a211f2359634c8046ce682275\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\CookAndroid\.gradle\caches\transforms-3\8467ca3a211f2359634c8046ce682275\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\CookAndroid\.gradle\caches\transforms-3\fcfd53f5278af724bc67eb0038f37cde\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\CookAndroid\.gradle\caches\transforms-3\fcfd53f5278af724bc67eb0038f37cde\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\CookAndroid\.gradle\caches\transforms-3\69378615f65a84dbb668d58e566a3b19\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\CookAndroid\.gradle\caches\transforms-3\69378615f65a84dbb668d58e566a3b19\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\CookAndroid\.gradle\caches\transforms-3\6e4c4223b6dbbcce62687209ea336715\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\CookAndroid\.gradle\caches\transforms-3\6e4c4223b6dbbcce62687209ea336715\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\CookAndroid\.gradle\caches\transforms-3\96ca5e0bd21bc66e2378c8fd438a00f2\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\CookAndroid\.gradle\caches\transforms-3\96ca5e0bd21bc66e2378c8fd438a00f2\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.12.0] C:\CookAndroid\.gradle\caches\transforms-3\88e0c800e50498bdf7488648af35325c\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] C:\CookAndroid\.gradle\caches\transforms-3\88e0c800e50498bdf7488648af35325c\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\CookAndroid\.gradle\caches\transforms-3\0508e1954a6c127f0d8e5dc6a53ebdc3\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\CookAndroid\.gradle\caches\transforms-3\0508e1954a6c127f0d8e5dc6a53ebdc3\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\CookAndroid\.gradle\caches\transforms-3\65701352bf6d42bdc1bdc062ae530f8a\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\CookAndroid\.gradle\caches\transforms-3\65701352bf6d42bdc1bdc062ae530f8a\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\CookAndroid\.gradle\caches\transforms-3\36675b1605de434f0246133d079a659b\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] C:\CookAndroid\.gradle\caches\transforms-3\36675b1605de434f0246133d079a659b\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\CookAndroid\.gradle\caches\transforms-3\a8d1cabf2e80328c81e2530a34a8ab96\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] C:\CookAndroid\.gradle\caches\transforms-3\a8d1cabf2e80328c81e2530a34a8ab96\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\CookAndroid\.gradle\caches\transforms-3\1699c4ddcde11ba8b98ca452ae2f68fc\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] C:\CookAndroid\.gradle\caches\transforms-3\1699c4ddcde11ba8b98ca452ae2f68fc\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\CookAndroid\.gradle\caches\transforms-3\7005ae8009deacc6d5123ef74e96e866\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] C:\CookAndroid\.gradle\caches\transforms-3\7005ae8009deacc6d5123ef74e96e866\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\CookAndroid\.gradle\caches\transforms-3\4092bcf1ac5a01072af603cdd4924017\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] C:\CookAndroid\.gradle\caches\transforms-3\4092bcf1ac5a01072af603cdd4924017\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\CookAndroid\.gradle\caches\transforms-3\4af7baccc251e362b145ac28ac8c0df4\transformed\jetified-MPAndroidChart-v3.1.0\AndroidManifest.xml:16:5-18:41
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\CookAndroid\.gradle\caches\transforms-3\4af7baccc251e362b145ac28ac8c0df4\transformed\jetified-MPAndroidChart-v3.1.0\AndroidManifest.xml:16:5-18:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\CookAndroid\.gradle\caches\transforms-3\9e6124f9aebda962449d9491b0c90cbc\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\CookAndroid\.gradle\caches\transforms-3\9e6124f9aebda962449d9491b0c90cbc\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\CookAndroid\.gradle\caches\transforms-3\2c2bb00796480f534252238784aa3f22\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\CookAndroid\.gradle\caches\transforms-3\2c2bb00796480f534252238784aa3f22\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.0] C:\CookAndroid\.gradle\caches\transforms-3\98b5be37195c3c690d779db5cb8be953\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.0] C:\CookAndroid\.gradle\caches\transforms-3\98b5be37195c3c690d779db5cb8be953\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.3] C:\CookAndroid\.gradle\caches\transforms-3\934f8bb386fad19493618f6ba1a8db62\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.3] C:\CookAndroid\.gradle\caches\transforms-3\934f8bb386fad19493618f6ba1a8db62\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:18:5-20:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\CookAndroid\.gradle\caches\transforms-3\0a7626a1b7e453d633aa934479fa1bf9\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] C:\CookAndroid\.gradle\caches\transforms-3\0a7626a1b7e453d633aa934479fa1bf9\transformed\jetified-gifdecoder-4.12.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\CookAndroid\.gradle\caches\transforms-3\a95d879e3e5cf5f2c2a9084c209e93f1\transformed\exifinterface-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] C:\CookAndroid\.gradle\caches\transforms-3\a95d879e3e5cf5f2c2a9084c209e93f1\transformed\exifinterface-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\CookAndroid\.gradle\caches\transforms-3\29bfc0cba97246b3996690c3a8b6501d\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\CookAndroid\.gradle\caches\transforms-3\29bfc0cba97246b3996690c3a8b6501d\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\CookAndroid\.gradle\caches\transforms-3\e5832709af751c1fe62466b8f8a56be9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\CookAndroid\.gradle\caches\transforms-3\e5832709af751c1fe62466b8f8a56be9\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\CookAndroid\.gradle\caches\transforms-3\157d845cbc131ecdd2628f1b01db797a\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\CookAndroid\.gradle\caches\transforms-3\157d845cbc131ecdd2628f1b01db797a\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\CookAndroid\.gradle\caches\transforms-3\88801031383d9ce2c2955467f22a5694\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\CookAndroid\.gradle\caches\transforms-3\88801031383d9ce2c2955467f22a5694\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\CookAndroid\.gradle\caches\transforms-3\b8d101bc601f562214a4276fc97f401d\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\CookAndroid\.gradle\caches\transforms-3\b8d101bc601f562214a4276fc97f401d\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-encoders-json:16.1.0] C:\CookAndroid\.gradle\caches\transforms-3\572f98439c28b5838d3c2cf037906d94\transformed\jetified-firebase-encoders-json-16.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-encoders-json:16.1.0] C:\CookAndroid\.gradle\caches\transforms-3\572f98439c28b5838d3c2cf037906d94\transformed\jetified-firebase-encoders-json-16.1.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\CookAndroid\.gradle\caches\transforms-3\0a8f6336a914e97b56dac8b3b9912f6a\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\CookAndroid\.gradle\caches\transforms-3\0a8f6336a914e97b56dac8b3b9912f6a\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\CookAndroid\.gradle\caches\transforms-3\6aa5d4722e490cb1b01319c191a5aab0\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\CookAndroid\.gradle\caches\transforms-3\6aa5d4722e490cb1b01319c191a5aab0\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\CookAndroid\.gradle\caches\transforms-3\a8d6573ec9b578c1c621a4bdab9198e0\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\CookAndroid\.gradle\caches\transforms-3\a8d6573ec9b578c1c621a4bdab9198e0\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\CookAndroid\.gradle\caches\transforms-3\71eda68c1de07377e68ad7854b12f6e1\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\CookAndroid\.gradle\caches\transforms-3\71eda68c1de07377e68ad7854b12f6e1\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\CookAndroid\.gradle\caches\transforms-3\0140eaf35aa55f5676f984a11d97af6c\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\CookAndroid\.gradle\caches\transforms-3\0140eaf35aa55f5676f984a11d97af6c\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.2.1] C:\CookAndroid\.gradle\caches\transforms-3\aba8d2b04af58eee883beb149fb523f3\transformed\jetified-volley-1.2.1\AndroidManifest.xml:5:5-43
+MERGED from [com.android.volley:volley:1.2.1] C:\CookAndroid\.gradle\caches\transforms-3\aba8d2b04af58eee883beb149fb523f3\transformed\jetified-volley-1.2.1\AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\CookAndroid\.gradle\caches\transforms-3\1fd2239a63613b95f1ce36988d424fb6\transformed\jetified-transport-api-2.2.0\AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.android.datatransport:transport-api:2.2.0] C:\CookAndroid\.gradle\caches\transforms-3\1fd2239a63613b95f1ce36988d424fb6\transformed\jetified-transport-api-2.2.0\AndroidManifest.xml:18:5-20:41
+INJECTED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml
+INJECTED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml
+		ADDED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml
+		INJECTED from C:\project\Top\Final\Andorid_Final\Android_App\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.google.android.libraries.places:places:3.2.0] C:\CookAndroid\.gradle\caches\transforms-3\c027db000de849e8640ba3594ed5a918\transformed\jetified-places-3.2.0\AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from [com.google.android.libraries.places:places:3.2.0] C:\CookAndroid\.gradle\caches\transforms-3\c027db000de849e8640ba3594ed5a918\transformed\jetified-places-3.2.0\AndroidManifest.xml:11:22-73
+activity#com.google.android.libraries.places.widget.AutocompleteActivity
+ADDED from [com.google.android.libraries.places:places:3.2.0] C:\CookAndroid\.gradle\caches\transforms-3\c027db000de849e8640ba3594ed5a918\transformed\jetified-places-3.2.0\AndroidManifest.xml:15:9-21:20
+	android:label
+		ADDED from [com.google.android.libraries.places:places:3.2.0] C:\CookAndroid\.gradle\caches\transforms-3\c027db000de849e8640ba3594ed5a918\transformed\jetified-places-3.2.0\AndroidManifest.xml:18:13-62
+	android:windowSoftInputMode
+		ADDED from [com.google.android.libraries.places:places:3.2.0] C:\CookAndroid\.gradle\caches\transforms-3\c027db000de849e8640ba3594ed5a918\transformed\jetified-places-3.2.0\AndroidManifest.xml:20:13-55
+	android:exported
+		ADDED from [com.google.android.libraries.places:places:3.2.0] C:\CookAndroid\.gradle\caches\transforms-3\c027db000de849e8640ba3594ed5a918\transformed\jetified-places-3.2.0\AndroidManifest.xml:17:13-37
+	android:theme
+		ADDED from [com.google.android.libraries.places:places:3.2.0] C:\CookAndroid\.gradle\caches\transforms-3\c027db000de849e8640ba3594ed5a918\transformed\jetified-places-3.2.0\AndroidManifest.xml:19:13-61
+	android:name
+		ADDED from [com.google.android.libraries.places:places:3.2.0] C:\CookAndroid\.gradle\caches\transforms-3\c027db000de849e8640ba3594ed5a918\transformed\jetified-places-3.2.0\AndroidManifest.xml:16:13-91
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\CookAndroid\.gradle\caches\transforms-3\d5bda3806b5e45c9a244dea401a2f056\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.0] C:\CookAndroid\.gradle\caches\transforms-3\98b5be37195c3c690d779db5cb8be953\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-backend-cct:2.3.0] C:\CookAndroid\.gradle\caches\transforms-3\98b5be37195c3c690d779db5cb8be953\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.3] C:\CookAndroid\.gradle\caches\transforms-3\934f8bb386fad19493618f6ba1a8db62\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.3] C:\CookAndroid\.gradle\caches\transforms-3\934f8bb386fad19493618f6ba1a8db62\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\CookAndroid\.gradle\caches\transforms-3\d5bda3806b5e45c9a244dea401a2f056\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\CookAndroid\.gradle\caches\transforms-3\d5bda3806b5e45c9a244dea401a2f056\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\CookAndroid\.gradle\caches\transforms-3\d5bda3806b5e45c9a244dea401a2f056\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\CookAndroid\.gradle\caches\transforms-3\d5bda3806b5e45c9a244dea401a2f056\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:28:9-32
+queries
+ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\CookAndroid\.gradle\caches\transforms-3\d5bda3806b5e45c9a244dea401a2f056\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:30:5-34:15
+package#com.google.android.apps.maps
+ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\CookAndroid\.gradle\caches\transforms-3\d5bda3806b5e45c9a244dea401a2f056\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:33:9-64
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\CookAndroid\.gradle\caches\transforms-3\d5bda3806b5e45c9a244dea401a2f056\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:33:18-61
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\CookAndroid\.gradle\caches\transforms-3\d5bda3806b5e45c9a244dea401a2f056\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:39:9-41:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\CookAndroid\.gradle\caches\transforms-3\d5bda3806b5e45c9a244dea401a2f056\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\CookAndroid\.gradle\caches\transforms-3\d5bda3806b5e45c9a244dea401a2f056\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:40:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\CookAndroid\.gradle\caches\transforms-3\05de64e5437f88968b334aa66f987b5c\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\CookAndroid\.gradle\caches\transforms-3\05de64e5437f88968b334aa66f987b5c\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\CookAndroid\.gradle\caches\transforms-3\05de64e5437f88968b334aa66f987b5c\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.1.0] C:\CookAndroid\.gradle\caches\transforms-3\05de64e5437f88968b334aa66f987b5c\transformed\jetified-play-services-base-18.1.0\AndroidManifest.xml:20:19-85
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\CookAndroid\.gradle\caches\transforms-3\95a25db587b992b18041c5fac1055f24\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\CookAndroid\.gradle\caches\transforms-3\65701352bf6d42bdc1bdc062ae530f8a\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\CookAndroid\.gradle\caches\transforms-3\65701352bf6d42bdc1bdc062ae530f8a\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\CookAndroid\.gradle\caches\transforms-3\157d845cbc131ecdd2628f1b01db797a\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\CookAndroid\.gradle\caches\transforms-3\157d845cbc131ecdd2628f1b01db797a\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\CookAndroid\.gradle\caches\transforms-3\88801031383d9ce2c2955467f22a5694\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\CookAndroid\.gradle\caches\transforms-3\88801031383d9ce2c2955467f22a5694\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\CookAndroid\.gradle\caches\transforms-3\95a25db587b992b18041c5fac1055f24\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\CookAndroid\.gradle\caches\transforms-3\95a25db587b992b18041c5fac1055f24\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\CookAndroid\.gradle\caches\transforms-3\95a25db587b992b18041c5fac1055f24\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\CookAndroid\.gradle\caches\transforms-3\95a25db587b992b18041c5fac1055f24\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\CookAndroid\.gradle\caches\transforms-3\95a25db587b992b18041c5fac1055f24\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\CookAndroid\.gradle\caches\transforms-3\95a25db587b992b18041c5fac1055f24\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\CookAndroid\.gradle\caches\transforms-3\95a25db587b992b18041c5fac1055f24\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\CookAndroid\.gradle\caches\transforms-3\88e0c800e50498bdf7488648af35325c\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] C:\CookAndroid\.gradle\caches\transforms-3\88e0c800e50498bdf7488648af35325c\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\CookAndroid\.gradle\caches\transforms-3\88e0c800e50498bdf7488648af35325c\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+permission#com.example.projecttest.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\CookAndroid\.gradle\caches\transforms-3\88e0c800e50498bdf7488648af35325c\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] C:\CookAndroid\.gradle\caches\transforms-3\88e0c800e50498bdf7488648af35325c\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\CookAndroid\.gradle\caches\transforms-3\88e0c800e50498bdf7488648af35325c\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\CookAndroid\.gradle\caches\transforms-3\88e0c800e50498bdf7488648af35325c\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\CookAndroid\.gradle\caches\transforms-3\88e0c800e50498bdf7488648af35325c\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.projecttest.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] C:\CookAndroid\.gradle\caches\transforms-3\88e0c800e50498bdf7488648af35325c\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] C:\CookAndroid\.gradle\caches\transforms-3\88e0c800e50498bdf7488648af35325c\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\CookAndroid\.gradle\caches\transforms-3\65701352bf6d42bdc1bdc062ae530f8a\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\CookAndroid\.gradle\caches\transforms-3\65701352bf6d42bdc1bdc062ae530f8a\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] C:\CookAndroid\.gradle\caches\transforms-3\65701352bf6d42bdc1bdc062ae530f8a\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+service#com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.0] C:\CookAndroid\.gradle\caches\transforms-3\98b5be37195c3c690d779db5cb8be953\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.3] C:\CookAndroid\.gradle\caches\transforms-3\934f8bb386fad19493618f6ba1a8db62\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:36:9-38:40
+MERGED from [com.google.android.datatransport:transport-runtime:2.2.3] C:\CookAndroid\.gradle\caches\transforms-3\934f8bb386fad19493618f6ba1a8db62\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:36:9-38:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.0] C:\CookAndroid\.gradle\caches\transforms-3\98b5be37195c3c690d779db5cb8be953\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.0] C:\CookAndroid\.gradle\caches\transforms-3\98b5be37195c3c690d779db5cb8be953\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:30:13-103
+meta-data#backend:com.google.android.datatransport.cct.CctBackendFactory
+ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.0] C:\CookAndroid\.gradle\caches\transforms-3\98b5be37195c3c690d779db5cb8be953\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:32:13-34:39
+	android:value
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.0] C:\CookAndroid\.gradle\caches\transforms-3\98b5be37195c3c690d779db5cb8be953\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:34:17-36
+	android:name
+		ADDED from [com.google.android.datatransport:transport-backend-cct:2.3.0] C:\CookAndroid\.gradle\caches\transforms-3\98b5be37195c3c690d779db5cb8be953\transformed\jetified-transport-backend-cct-2.3.0\AndroidManifest.xml:33:17-94
+service#com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.3] C:\CookAndroid\.gradle\caches\transforms-3\934f8bb386fad19493618f6ba1a8db62\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:26:9-30:19
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.3] C:\CookAndroid\.gradle\caches\transforms-3\934f8bb386fad19493618f6ba1a8db62\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:28:13-37
+	android:permission
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.3] C:\CookAndroid\.gradle\caches\transforms-3\934f8bb386fad19493618f6ba1a8db62\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.3] C:\CookAndroid\.gradle\caches\transforms-3\934f8bb386fad19493618f6ba1a8db62\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:27:13-117
+receiver#com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+ADDED from [com.google.android.datatransport:transport-runtime:2.2.3] C:\CookAndroid\.gradle\caches\transforms-3\934f8bb386fad19493618f6ba1a8db62\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:32:9-34:40
+	android:exported
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.3] C:\CookAndroid\.gradle\caches\transforms-3\934f8bb386fad19493618f6ba1a8db62\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:34:13-37
+	android:name
+		ADDED from [com.google.android.datatransport:transport-runtime:2.2.3] C:\CookAndroid\.gradle\caches\transforms-3\934f8bb386fad19493618f6ba1a8db62\transformed\jetified-transport-runtime-2.2.3\AndroidManifest.xml:33:13-132
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\CookAndroid\.gradle\caches\transforms-3\157d845cbc131ecdd2628f1b01db797a\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\CookAndroid\.gradle\caches\transforms-3\157d845cbc131ecdd2628f1b01db797a\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\CookAndroid\.gradle\caches\transforms-3\157d845cbc131ecdd2628f1b01db797a\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\CookAndroid\.gradle\caches\transforms-3\157d845cbc131ecdd2628f1b01db797a\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\CookAndroid\.gradle\caches\transforms-3\157d845cbc131ecdd2628f1b01db797a\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\CookAndroid\.gradle\caches\transforms-3\157d845cbc131ecdd2628f1b01db797a\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\CookAndroid\.gradle\caches\transforms-3\157d845cbc131ecdd2628f1b01db797a\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\CookAndroid\.gradle\caches\transforms-3\157d845cbc131ecdd2628f1b01db797a\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\CookAndroid\.gradle\caches\transforms-3\157d845cbc131ecdd2628f1b01db797a\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\CookAndroid\.gradle\caches\transforms-3\157d845cbc131ecdd2628f1b01db797a\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\CookAndroid\.gradle\caches\transforms-3\157d845cbc131ecdd2628f1b01db797a\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\CookAndroid\.gradle\caches\transforms-3\157d845cbc131ecdd2628f1b01db797a\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\CookAndroid\.gradle\caches\transforms-3\157d845cbc131ecdd2628f1b01db797a\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\CookAndroid\.gradle\caches\transforms-3\157d845cbc131ecdd2628f1b01db797a\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\CookAndroid\.gradle\caches\transforms-3\157d845cbc131ecdd2628f1b01db797a\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\CookAndroid\.gradle\caches\transforms-3\157d845cbc131ecdd2628f1b01db797a\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\CookAndroid\.gradle\caches\transforms-3\157d845cbc131ecdd2628f1b01db797a\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\CookAndroid\.gradle\caches\transforms-3\157d845cbc131ecdd2628f1b01db797a\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\CookAndroid\.gradle\caches\transforms-3\157d845cbc131ecdd2628f1b01db797a\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\CookAndroid\.gradle\caches\transforms-3\157d845cbc131ecdd2628f1b01db797a\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\CookAndroid\.gradle\caches\transforms-3\157d845cbc131ecdd2628f1b01db797a\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:25-92

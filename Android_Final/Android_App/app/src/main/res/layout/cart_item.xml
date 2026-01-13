@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.card.MaterialCardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginHorizontal="8dp"
+    app:cardCornerRadius="8dp"
+    app:cardElevation="1dp"
+    app:cardUseCompatPadding="true">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="379dp"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/cartMenuName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="28dp"
+            android:text="메뉴 이름"
+            android:textColor="@color/black"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/cartMenuPrice"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/cartMenuPrice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="47dp"
+            android:layout_marginEnd="50dp"
+            android:text="가격"
+            android:textColor="@color/black"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toStartOf="@+id/linearLayout"
+            app:layout_constraintStart_toEndOf="@+id/cartMenuName"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <LinearLayout
+            android:id="@+id/linearLayout"
+            android:layout_width="130dp"
+            android:layout_height="match_parent"
+            android:layout_marginEnd="28dp"
+            android:background="@android:color/white"
+            android:orientation="horizontal"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/decrement"
+                android:layout_width="30dp"
+                android:layout_height="match_parent"
+                android:background="@color/burgundy"
+                android:padding="0dp"
+                android:fontFamily="@font/gothica1_regular"
+                android:text="—"
+                android:textColor="@color/white"
+                android:textStyle="bold"
+                android:textSize="16sp"
+                tools:ignore="TouchTargetSizeCheck" />
+
+            <TextView
+                android:id="@+id/cartMenuCount"
+                android:layout_width="70dp"
+                android:layout_height="match_parent"
+                android:background="@android:color/white"
+                android:gravity="center"
+                android:fontFamily="@font/gothica1_regular"
+                android:inputType="number"
+                android:text="1"
+                android:textSize="18sp"
+                android:textColor="@android:color/black" />
+
+            <androidx.appcompat.widget.AppCompatButton
+                android:id="@+id/increment"
+                android:layout_width="30dp"
+                android:layout_height="match_parent"
+                android:background="@color/burgundy"
+                android:padding="0dp"
+                android:fontFamily="@font/gothica1_regular"
+                android:text="+"
+                android:textColor="@color/white"
+                android:textSize="18sp"
+                tools:ignore="TouchTargetSizeCheck" />
+        </LinearLayout>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</com.google.android.material.card.MaterialCardView>

@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-mergeDebugResources-36:\\layout\\activity_gift.xml",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\activity_gift.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-mergeDebugResources-36:\\layout\\activity_payment.xml",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\activity_payment.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-mergeDebugResources-36:\\layout\\first_dialog.xml",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\first_dialog.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-mergeDebugResources-36:\\layout\\cart_item.xml",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\cart_item.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-mergeDebugResources-36:\\layout\\activity_r_order_detail.xml",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\activity_r_order_detail.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-mergeDebugResources-36:\\layout\\check_giftusing_design.xml",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\check_giftusing_design.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-mergeDebugResources-36:\\layout\\activity_res_review.xml",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\activity_res_review.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-mergeDebugResources-36:\\layout\\activity_notification.xml",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\activity_notification.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-mergeDebugResources-36:\\layout\\activity_restaurant_main.xml",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\activity_restaurant_main.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-mergeDebugResources-36:\\layout\\activity_review_write.xml",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\activity_review_write.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-mergeDebugResources-36:\\layout\\recycler_view.xml",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\recycler_view.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-mergeDebugResources-36:\\layout\\activity_order.xml",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\activity_order.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-mergeDebugResources-36:\\layout\\each_item.xml",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\each_item.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-mergeDebugResources-36:\\layout\\activity_waiting.xml",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\activity_waiting.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-mergeDebugResources-36:\\layout\\activity_my_info.xml",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\activity_my_info.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-mergeDebugResources-36:\\layout\\rv_gift.xml",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\rv_gift.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-mergeDebugResources-36:\\layout\\activity_notification_write.xml",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\activity_notification_write.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-mergeDebugResources-36:\\layout\\activity_review.xml",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\activity_review.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-mergeDebugResources-36:\\layout\\activity_step.xml",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\activity_step.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-mergeDebugResources-36:\\layout\\activity_join.xml",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\activity_join.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-mergeDebugResources-36:\\layout\\rv_send_gift.xml",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\rv_send_gift.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-mergeDebugResources-36:\\layout\\activity_my_health.xml",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\activity_my_health.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-mergeDebugResources-36:\\layout\\activity_main.xml",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-mergeDebugResources-36:\\layout\\rv_reviewmanagement.xml",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\rv_reviewmanagement.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-mergeDebugResources-36:\\layout\\activity_etc.xml",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\activity_etc.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-mergeDebugResources-36:\\layout\\activity_review_select.xml",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\activity_review_select.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-mergeDebugResources-36:\\layout\\activity_order_detail.xml",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\activity_order_detail.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-mergeDebugResources-36:\\layout\\recommend_item.xml",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\recommend_item.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-mergeDebugResources-36:\\layout\\rv_received_gift.xml",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\rv_received_gift.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-mergeDebugResources-36:\\layout\\activity_payment2.xml",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\activity_payment2.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-mergeDebugResources-36:\\layout\\activity_my_location.xml",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\activity_my_location.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-mergeDebugResources-36:\\layout\\recycler_view_r_order.xml",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\recycler_view_r_order.xml"
+    },
+    {
+        "merged": "com.example.projecttest.app-mergeDebugResources-36:/layout/activity_order.xml",
+        "source": "com.example.projecttest.app-main-39:/layout/activity_order.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-mergeDebugResources-36:\\layout\\logout_design.xml",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\logout_design.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-mergeDebugResources-36:\\layout\\activity_location_loading.xml",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\activity_location_loading.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-mergeDebugResources-36:\\layout\\custom_dialog.xml",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\custom_dialog.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-mergeDebugResources-36:\\layout\\rv_orderedlist.xml",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\rv_orderedlist.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-mergeDebugResources-36:\\layout\\recycler_view_review.xml",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\recycler_view_review.xml"
+    },
+    {
+        "merged": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-mergeDebugResources-36:\\layout\\check_giftpay_design.xml",
+        "source": "C:\\CookAndroid\\.gradle\\daemon\\7.4\\com.example.projecttest.app-main-39:\\layout\\check_giftpay_design.xml"
+    }
+]

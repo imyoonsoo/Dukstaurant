@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ReviewWriteActivity">
+
+    <ImageButton
+        android:id="@+id/backButton_wirting"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="32dp"
+        android:background="@drawable/back"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/back_icon_32px"
+        tools:ignore="TouchTargetSizeCheck,SpeakableTextPresentCheck" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="64dp"
+        android:layout_marginTop="32dp"
+        android:fontFamily="@font/gothica1_bold"
+        android:text="리뷰 작성"
+        android:textColor="@color/black"
+        android:textSize="25sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/orderedStore_writing"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="46dp"
+        android:layout_marginBottom="4dp"
+        android:fontFamily="@font/gothica1_medium"
+        android:text="가게명"
+        android:textColor="@color/black"
+        android:textSize="22sp"
+        app:layout_constraintBottom_toTopOf="@+id/storeImage_writing"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ImageView
+        android:id="@+id/storeImage_writing"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="156dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.131"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/tteokbokki_img_radius" />
+
+
+    <TextView
+        android:id="@+id/orderedMenuTitle_writing"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="88dp"
+        android:layout_marginTop="152dp"
+        android:fontFamily="@font/gothica1_regular"
+        android:text="[주문 메뉴]"
+        android:textColor="@color/black80"
+        android:textSize="18sp"
+        app:layout_constraintStart_toEndOf="@+id/storeImage_writing"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/orderedMenu_writing"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:fontFamily="@font/gothica1_regular"
+        android:text="상세 주문메뉴"
+        android:textColor="@color/black80"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="@+id/orderedMenuTitle_writing"
+        app:layout_constraintStart_toStartOf="@+id/orderedMenuTitle_writing"
+        app:layout_constraintTop_toBottomOf="@+id/orderedMenuTitle_writing" />
+
+    <ImageView
+        android:id="@+id/reviewBox"
+        android:layout_width="294dp"
+        android:layout_height="259dp"
+        android:layout_marginTop="40dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.521"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/storeImage_writing"
+        app:srcCompat="@drawable/editbox" />
+
+    <EditText
+        android:id="@+id/editTextReview"
+        android:layout_width="237dp"
+        android:layout_height="221dp"
+        android:layout_marginStart="28dp"
+        android:layout_marginTop="20dp"
+        android:background="@android:color/transparent"
+        android:ems="10"
+        android:fontFamily="@font/gothica1_regular"
+        android:textColor="@color/black50"
+        android:gravity="start|top"
+        android:hint="리뷰를 입력하세요"
+        android:inputType="textMultiLine"
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="@+id/reviewBox"
+        app:layout_constraintTop_toTopOf="@+id/reviewBox"
+        tools:ignore="TouchTargetSizeCheck" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/reviewDone"
+        android:layout_width="211dp"
+        android:layout_height="53dp"
+        android:layout_marginTop="50dp"
+        android:background="@drawable/reviewend"
+        android:fontFamily="@font/gothica1_medium"
+        android:text="리뷰 작성 완료"
+        android:textColor="@color/white"
+        android:textSize="19sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/reviewBox" />
+
+    <!--
+    <EditText
+        android:id="@+id/editTextReview"
+        android:layout_width="237dp"
+        android:layout_height="161dp"
+        android:ems="10"
+        android:gravity="start|top"
+        android:inputType="textMultiLine"
+        app:layout_constraintBottom_toTopOf="@+id/reviewButton"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <Button
+        android:id="@+id/reviewButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="리뷰쓰기"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.642" />
+
+    <Button
+        android:id="@+id/button_back2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:text="뒤로가기"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+     -->
+
+</androidx.constraintlayout.widget.ConstraintLayout>
