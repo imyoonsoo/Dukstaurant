@@ -1,5 +1,6 @@
 # 덕스토랑
-<img width="400" height="400" alt="logo_Dukstaurant" src="https://github.com/user-attachments/assets/b4ada6fb-d1da-4292-a4d7-aff71168961b" />
+<img width="400" height="400" alt="logo_Dukstaurant" src="https://github.com/user-attachments/assets/99fa9488-e927-41f1-ba3f-eb29ea03695c" />
+
 
 
 ### 🍽 학식 주문 · 칼로리 기반 학식 추천 · 선물하기 기능을 담은 덕성여대 학식 앱
@@ -154,7 +155,9 @@
 ---
 
 ## 🎬 시연 영상
-https://github.com/user-attachments/assets/01929545-addf-45fe-92e2-c3a3e4883fc2
+https://github.com/user-attachments/assets/d30c9ab6-8b87-4238-83e7-f8c54d381ff2
+
+
 
 
 
